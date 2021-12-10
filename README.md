@@ -1,4 +1,4 @@
-### Hi there 👋 and welcome to my github profile! 
+<h1 align="center"> Hi there 👋 and welcome to my github profile! </h1>
 <div>
   <a href="https://github.com/raquelcota">
     <img align="right" alt="RC-pic" height="250" style="border-radius:50px;" src="https://s10.gifyu.com/images/ezgif.com-gif-maker4bc6ed581ab1502f.gif">
