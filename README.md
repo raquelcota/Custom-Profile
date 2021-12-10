@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 and welcome to my github profile! </h1>
 <div>
   <a href="https://github.com/raquelcota">
-    <img align="left" alt="RC-pic" height="250" style="border-radius:50px;" src="https://s10.gifyu.com/images/ezgif.com-gif-maker4bc6ed581ab1502f.gif">
+    <img align="right" alt="RC-pic" height="250" style="border-radius:50px;" src="https://s10.gifyu.com/images/ezgif.com-gif-maker4bc6ed581ab1502f.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelcota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <divstyle="display: inline_block"><br>
