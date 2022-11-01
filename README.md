@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 and welcome to my github profile! </h1>
-<h2 align="center"> I'm Raquel, </h2>
+<h2 align="center"> I'm Raquel </h2>
 <h3 align="center">an enthusiastic problem solver from Portugal</h3>
 🌱 Currently learning : Java SQL JavaScript
 <div align="right"> 
