@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 and welcome to my github profile! </h1>
 <br>
-Ex IT Recuiter turned Junior Full Stack Developer. With a year of self studying UX/UI under my belt I'm enthusiatic about problem solving and a huge nerd for user centric solutions.
+Ex IT Recuiter turned Junior Full Stack Developer. I'm enthusiatic about problem solving and a huge nerd for user centric solutions and ready to embrace new challenges!
 <br>
 <br>
 🌱 Currently learning : Java | SQL | JavaScript
